@@ -2,7 +2,8 @@
 
 PDF_QA_RAGModel is a Retrieval-Augmented Generation (RAG) application built with Streamlit and LangChain that lets you chat with your PDF documents. It runs powerful language models entirely on your local machine using Ollama, ensuring your data remains private.
 
-https://github.com/user-attachments/assets/630d0cc8-8320-42f5-9fed-8c9d351225fd
+[![Watch the video](https://github.com/user-attachments/assets/630d0cc8-8320-42f5-9fed-8c9d351225fd)
+
 ---
 
 ## ✨ Features
